@@ -1,0 +1,54 @@
+body {
+  background: #ddd;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: sans-serif;
+}
+
+.block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  margin: 16px;
+  background: #fff;
+  font-size: 32px;
+}
+
+.html-color {
+  /* напиши свой код здесь */
+  background: red;
+}
+
+.hex-color {
+  /* напиши свой код здесь */
+  background: #356dd2;
+}
+
+.rgb-color {
+  /* напиши свой код здесь */
+  background: rgb(209, 52, 73);
+}
+
+.rgba-color {
+  /* напиши свой код здесь */
+   background: rgb(209, 52, 73, 0.5);
+}
+
+.hsl-color {
+  /* напиши свой код здесь */
+   background: hsl(119, 63%, 51%);
+}
+
+.hsla-color {
+  /* напиши свой код здесь */
+   background: hsl(119, 63%, 51%, 0.5);
+}
+
+.image {
+  /* напиши свой код здесь */
+  background-image: url(https://pic.rutubelist.ru/video/db/18/db18b51dd1d553c5d7181d4ec82fe16e.jpg);
+  background-size: cover;
+  background-position: center;
+}
