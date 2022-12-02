@@ -1,0 +1,14 @@
+Фон
+
+.example {
+   /* цвет фона «продающий красный», задан в HEX-формате */
+   background: #e64c0c;
+}
+
+.example {
+   /* картинка на фоне */
+   background: url('images/nude-president.png'); 
+
+   /* background-size отвечает за размер картинки, cover - картинка растягивается на весь блок, сохраняя пропорции */
+   background-size: cover;
+}

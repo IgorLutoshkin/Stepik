@@ -1,0 +1,7 @@
+<!-- Семантичные изображения с подписью в HTML 5-->
+<figure>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5f6b2733647416.56b3aa52aa95c.png">
+  <figcaption>
+    Лого гугла от 2015 года
+  </figcaption>
+</figure>
